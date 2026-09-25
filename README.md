@@ -1,6 +1,6 @@
 # Hey, I'm Hixon 👋
 
-I build AI tools, web apps, and experimental products — mostly solo, mostly shipped.
+I build AI tools, web apps, and experimental products. Mostly solo, mostly shipped.
 
 **Site:** [hixon.studio](https://hixon.studio) · **X:** [@HixonStudio](https://x.com/HixonStudio)
 
@@ -8,19 +8,21 @@ I build AI tools, web apps, and experimental products — mostly solo, mostly sh
 
 | Project | What it is | Live |
 |---------|-----------|------|
-| [WhatColor](https://github.com/Hixly/whatcolor) | Point your camera at anything and instantly know what color it is — built for the colorblind | [what-color.com](https://what-color.com) |
-| [So&So](https://github.com/Hixly/soandso) | A personal AI chatbot you shape with sliders in 90 seconds — never a prompt box | — |
+| **Hackyard** | Recurring online hackathons. Build for a week, the community votes, a winner gets crowned. | [hackyard.tech](https://hackyard.tech) |
+| **Jev Board** | A Ouija-style talking board game where Ghost Jev picks each word | coming soon |
+| [Ephpha](https://github.com/Hixly/ephpha) | AI email assistant: subject line scoring, rewrites, smart send timing | [ephpha.ai](https://ephpha.ai) |
+| [WhatColor](https://github.com/Hixly/whatcolor) | Point your camera at anything and instantly know what color it is. Built for the colorblind. | [what-color.com](https://what-color.com) |
+| [DemoBro](https://github.com/Hixly/DemoBro) | Turns a web app and its repo into a polished micro-demo video. No screen recording. | [demobro.video](https://www.demobro.video) |
+| [Huncho](https://github.com/Hixly/huncho) | A hands-free AI assistant that drives your browser by voice | [download](https://github.com/Hixly/huncho/releases/latest) |
 | [Pluit](https://github.com/Hixly/pluit) | Cloud storage with a pixel-styled UI and plain-English file search | [pluit.cloud](https://pluit.cloud) |
-| [Noxservo](https://github.com/Hixly/noxservo) | A dark-by-design search engine — Blackle, modernized | [noxservo.com](https://noxservo.com) |
-| [Ephpha](https://github.com/Hixly/ephpha) | AI email assistant — subject line scoring, rewrites, smart send timing | [ephpha.ai](https://ephpha.ai) |
-| JotLabs | A note-taking tool that grows a living concept graph from `[[phrase]]` links | [jotlabs.vercel.app](https://jotlabs.vercel.app) |
-| Duxy | A desktop AI companion that lives on your machine — less chatbot, more co-pilot | [releases](https://github.com/Hixly/duxy-releases) |
+| [Noxservo](https://github.com/Hixly/noxservo) | A dark-by-design search engine. Blackle, modernized. | [noxservo.com](https://noxservo.com) |
+| [Rain on Glass](https://github.com/Hixly/rain-on-glass) | An interactive rainy window at night. Wipe the fog and watch it steam back up. | [try it](https://rain-on-glass-production.up.railway.app) |
 
-Plus a few things cooking in private repos — voice-driven AI assistants, health tools, and design platforms.
+Plus a few things cooking in private repos.
 
 ## How I work
 
 - **TypeScript + Next.js** for the web, **Electron + React** for desktop, **Expo** for mobile
-- **Supabase** for auth/data, **Vercel** for deploys
+- **Supabase** for auth/data, **Vercel** and **Railway** for deploys
 - AI features powered by **Claude** and **Gemini**
 - Small scope, real polish, ship it

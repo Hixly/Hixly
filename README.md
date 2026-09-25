@@ -9,7 +9,7 @@ I build AI tools, web apps, and experimental products. Mostly solo, mostly shipp
 | Project | What it is | Live |
 |---------|-----------|------|
 | **Hackyard** | Recurring online hackathons. Build for a week, the community votes, a winner gets crowned. | [hackyard.tech](https://hackyard.tech) |
-| **Jev Board** | A Ouija-style talking board game where Ghost Jev picks each word | coming soon |
+| **Jev Board** | A Ouija-style talking board game where Ghost Jev picks each word | [jevboard.dev](https://www.jevboard.dev) |
 | [Ephpha](https://github.com/Hixly/ephpha) | AI email assistant: subject line scoring, rewrites, smart send timing | [ephpha.ai](https://ephpha.ai) |
 | [WhatColor](https://github.com/Hixly/whatcolor) | Point your camera at anything and instantly know what color it is. Built for the colorblind. | [what-color.com](https://what-color.com) |
 | [DemoBro](https://github.com/Hixly/DemoBro) | Turns a web app and its repo into a polished micro-demo video. No screen recording. | [demobro.video](https://www.demobro.video) |
